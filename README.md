@@ -33,7 +33,7 @@
 #### v1.0.0
 
 * 基础版本主要功能
-
+![Image text](https://github.com/Id1eN0de/NTConfigChecker/blob/main/jixian.png）
 
 ## 联系我们
 
