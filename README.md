@@ -40,13 +40,13 @@
 <img width="827" height="598" alt="peizhi" src="https://github.com/user-attachments/assets/d82901b2-e1c5-45e5-8164-ce35465bfcab" />
 
 ### 基线库
-<img width="1126" height="800" alt="jixian" src="https://github.com/user-attachments/assets/37783a65-953d-4451-953b-3083b1ef48bd" />
+<img width="827" height="598" alt="jixian" src="https://github.com/user-attachments/assets/37783a65-953d-4451-953b-3083b1ef48bd" />
 
 ### 设置
-<img width="1126" height="800" alt="shezhi" src="https://github.com/user-attachments/assets/debc42dc-76ba-422e-a823-942d7653e32c" />
+<img width="827" height="598" alt="shezhi" src="https://github.com/user-attachments/assets/debc42dc-76ba-422e-a823-942d7653e32c" />
 
 ### 日志
-<img width="1126" height="800" alt="rizhi" src="https://github.com/user-attachments/assets/059202b2-9d4d-45e2-b74f-ab2313435547" />
+<img width="827" height="598" alt="rizhi" src="https://github.com/user-attachments/assets/059202b2-9d4d-45e2-b74f-ab2313435547" />
 
 
 ## 联系我们
@@ -56,7 +56,8 @@
 邮箱：id1en0de@163.com
 
 微信：Id1eN0de
-![Uploading weixin.jpg…]()
+<img width="827" height="598" alt="weixin" src="https://github.com/user-attachments/assets/fc2a5a56-145b-48e7-b72c-66ac96d1637d" />
+
 
 
 肉身挂机  程序自驱
