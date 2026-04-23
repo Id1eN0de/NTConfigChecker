@@ -33,7 +33,8 @@
 #### v1.0.0
 
 * 基础版本主要功能
-![Image text](https://github.com/Id1eN0de/NTConfigChecker/blob/main/jixian.png）
+<img width="1126" height="800" alt="jixian" src="https://github.com/user-attachments/assets/adc100b1-7052-4558-a4b8-d4e1854cdc43" />
+
 
 ## 联系我们
 
