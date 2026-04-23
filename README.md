@@ -4,6 +4,9 @@
 ## 介绍
 这是一个基于 Python 和 PyQt6构建的基于AI大模型的网络设备安全基线排查工具。旨在为网络管理员、网络安全员、网络安全督查人员提供了一套强大的工具，根据配置的基线检查内容，利用AI大模型能力自动分析网络设备配置信息，找出不合规项，并提出整改意见。
 
+#### gitee地址：https://gitee.com/id1en0de/ntconfig-checker
+#### github地址：https://github.com/Id1eN0de/NTConfigChecker
+
 ## 主要功能
 
 - **配置检查**: 
