@@ -1,7 +1,12 @@
 # NTConfigChecker
-绿色环保，解压即撸
 
 [![python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
+[![SQLModel](https://img.shields.io/badge/SQLModel-0.0.37-blue)](https://sqlmodel.tiangolo.com/)
+[![PyQt6](https://img.shields.io/badge/PyQt6-6.4.2-blue)](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
+[![QFluentWidgets](https://img.shields.io/badge/Qfluentwidgets-1.11.1-blue)](https://qfluentwidgets.com/zh/)
+
+绿色环保，解压即撸
+
 
 ## 介绍
 这是一个基于 Python 和 PyQt6构建的基于AI大模型的网络设备安全基线排查工具。旨在为网络管理员、网络安全员、网络安全督查人员提供了一套强大的工具，根据配置的基线检查内容，利用AI大模型能力自动分析网络设备配置信息，找出不合规项，并提出整改意见。
@@ -35,6 +40,10 @@
 
 ## 更新日志
 
+### v1.1.0
+* 增加基线库导入导出功能
+* 修改部分bug
+
 #### v1.0.0
 
 * 基础版本主要功能
@@ -45,7 +54,8 @@
 <img width="827" height="598" alt="peizhi" src="https://github.com/user-attachments/assets/d82901b2-e1c5-45e5-8164-ce35465bfcab" />
 
 ### 基线库
-<img width="827" height="598" alt="jixian" src="https://github.com/user-attachments/assets/37783a65-953d-4451-953b-3083b1ef48bd" />
+<img width="827" height="598" alt="jixian" src="https://github.com/user-attachments/assets/bd9850ac-be3b-48ad-80ba-dca30cbe1ecf" />
+
 
 ### 设置
 <img width="827" height="598" alt="shezhi" src="https://github.com/user-attachments/assets/debc42dc-76ba-422e-a823-942d7653e32c" />
