@@ -3,7 +3,7 @@
 [![python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
 [![SQLModel](https://img.shields.io/badge/SQLModel-0.0.37-blue)](https://sqlmodel.tiangolo.com/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.4.2-blue)](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
-[![QFluentWidgets](https://img.shields.io/badge/Qfluentwidgets-1.11.1-blue)](https://qfluentwidgets.com/zh/)
+[![QFluentWidgets](https://img.shields.io/badge/QFluentWidgets-1.11.1-blue)](https://qfluentwidgets.com/zh/)
 
 绿色环保，解压即撸
 
@@ -40,29 +40,44 @@
 
 ## 更新日志
 
+### v1.2.1
+* 增加主报告生成功能
+* 修改部分bug
+
 ### v1.1.0
 * 增加基线库导入导出功能
 * 增加基线库模板，欢迎大家共同维护
 * 修改部分bug
 
-#### v1.0.0
+### v1.0.0
 
 * 基础版本主要功能
 
 ## 界面展示
 
 ### 配置检查
-<img width="827" height="598" alt="peizhi" src="https://github.com/user-attachments/assets/d82901b2-e1c5-45e5-8164-ce35465bfcab" />
+<img width="827" height="598" alt="peizhi" src="https://github.com/user-attachments/assets/2a22845f-b775-4084-a173-72ae5f98f193" />
+
 
 ### 基线库
-<img width="827" height="598" alt="jixian" src="https://github.com/user-attachments/assets/bd9850ac-be3b-48ad-80ba-dca30cbe1ecf" />
+<img width="827" height="598" alt="jixian" src="https://github.com/user-attachments/assets/1888f265-7561-4f4e-9a34-55417d858cde" />
+
 
 
 ### 设置
-<img width="827" height="598" alt="shezhi" src="https://github.com/user-attachments/assets/debc42dc-76ba-422e-a823-942d7653e32c" />
+<img width="827" height="598" alt="shezhi" src="https://github.com/user-attachments/assets/ebc02f6e-4a81-4cd7-8ec7-4550d14ac92c" />
+
 
 ### 日志
-<img width="827" height="598" alt="rizhi" src="https://github.com/user-attachments/assets/059202b2-9d4d-45e2-b74f-ab2313435547" />
+<img width="827" height="598" alt="rizhi" src="https://github.com/user-attachments/assets/219591ec-53af-40b7-b451-ebc9a39317db" />
+
+
+### 主报告
+<img width="827" height="2094" alt="baogao1" src="https://github.com/user-attachments/assets/d98964e9-b069-4ff6-b699-2da640ef047b" />
+
+### 详细报告
+<img width="827" height="2213" alt="baogao2" src="https://github.com/user-attachments/assets/f4f90da5-279d-411c-8697-585b41808df1" />
+
 
 
 ## 联系我们
